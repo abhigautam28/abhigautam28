@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abhishek Gautam
-- 👀 I’m interested java, spring boot
-- 🌱 I’m currently working as software engineer in Genapact
-- 📫 How to reach me ...
+Hey 👋🏻, I'm Abhishek!
+-I'm currently a SDE, Backend at Enquero(Genpact).
+-🌱 I’m currently learning AWS Services and SpringBoot Framework
+📫 How to reach me ...
     you can email me abhigautam172000@gmail.com.
 <!---
 abhigautam28/abhigautam28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
